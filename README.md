@@ -28,16 +28,16 @@
 Эти 3 видео замещают собой первые 2 темы со скрина оглавления. Это необходимый минимум для понимания Формата IP-адресов  
 <h4>ОБЯЗАТЕЛЬНО ВЕРНИТЕСЬ К УЧЕБНИКУ,<br/> ОНА ОЖИДАЕТ ТЕКСТ ИЗ НЕГО, В ВИДЕО ТОЛЬКО ВВОДНАЯ ИНФОРМАЦИЯ ДЛЯ ПРОЧТЕНИЯ ТЕМЫ ФОРМАТ IP</h4>
 IP:  <br/>
-<a href="https://www.youtube.com/watch?v=2I1HnSN1H9o&t=179s">Ссылка</a>  <br/>
-TCP/IP:  <br/>
 <a href="https://www.youtube.com/watch?v=6tFGoiok0u8">Ссылка</a>  <br/>
+TCP/IP:  <br/>
+<a href="https://www.youtube.com/watch?v=2I1HnSN1H9o&t=179s">Ссылка</a>  <br/>
 MAC-адреса:  <br/>
 <a href="https://www.youtube.com/watch?v=C3Ma_QH_-_o">Ссылка</a>  <br/>
   <br/>
 Дополнительные видео для литья воды, если задание окажется связанным с ними:  <br/>
 DNS (Domaine name system):  <br/>
 <a href="https://www.youtube.com/watch?v=t2NMbSarXC4">Ссылка</a>  <br/>
-DHCP - динамические IP адреса:  <br/>
+DHCP - динамические адреса:  <br/>
 <a href="https://www.youtube.com/watch?v=XPRYaGCkXJ8">Ссылка</a>  <br/>
 TCP/UDP протоколы:  <br/>
 <a href="https://www.youtube.com/watch?v=yMSJKBQINAc">Ссылка</a>  <br/>
